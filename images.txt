@@ -1,4 +1,2 @@
-nginx
-tomcat
-alpine:3.19
+nacos/nacos-server:v2.4.2
 snowdreamtech/frpc:0.52.3
