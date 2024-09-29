@@ -1,3 +1,4 @@
 nacos/nacos-server:v2.4.2
 snowdreamtech/frpc:0.52.3
 bitnami/postgresql:11.7.0-debian-10-r26
+busybox:1.31
