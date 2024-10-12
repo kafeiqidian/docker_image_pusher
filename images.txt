@@ -1,1 +1,2 @@
-sonarqube:8.9-community
+osixia/openldap:1.3.0
+mirrorgooglecontainers/defaultbackend-amd64:1.4
