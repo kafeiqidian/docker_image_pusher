@@ -1,1 +1,1 @@
-weblogic:latest
+vulhub/weblogic
