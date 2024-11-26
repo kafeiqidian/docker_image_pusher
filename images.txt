@@ -1,5 +1,2 @@
-mysql:8.0
-redis:6.2
-node:16
-openjdk:8-jdk-alpine
+buildkit:buildx-stable-1
 
