@@ -1,1 +1,1 @@
-ghcr.io/oracle/weblogic-kubernetes-operator:4.2.12
+logstash:6.8.23
