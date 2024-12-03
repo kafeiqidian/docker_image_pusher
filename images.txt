@@ -1,1 +1,1 @@
-traefik:2.9.4
+container-registry.oracle.com/middleware/weblogic:12.2.1.4
