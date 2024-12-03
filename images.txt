@@ -1,1 +1,1 @@
-middleware/weblogic:12.2.1.4
+weblogic:12.2.1.4
