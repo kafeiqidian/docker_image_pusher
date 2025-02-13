@@ -1,1 +1,1 @@
-kubespheredev/s2i-base-centos7
+netdata/netdata
