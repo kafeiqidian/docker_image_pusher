@@ -1,1 +1,1 @@
-apachepinot/pinot:1.1.0
+bitnami/kafka:latest
