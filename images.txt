@@ -1,1 +1,1 @@
-gitlab:v14.13.11
+minio/minio:RELEASE.2020-08-08T04-50-06Z
